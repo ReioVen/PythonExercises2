@@ -1,0 +1,12 @@
+Used for my youtube: https://www.youtube.com/@R3ioContent
+
+The Solutions are going to be in all of the .py files and the
+guidelines are going to be in the ExerciseInfo.txt file.
+
+Python For Beginners EP 7.
+
+Don't worry as a beginner you should not be able to solve any
+problems from heart, once you solve enough problems you will start
+to realize patters so don't worry, everyone started just like you!!
+
+Detailed explanation in the video!

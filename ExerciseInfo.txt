@@ -1,0 +1,32 @@
+The Rules are to not open the .py files that include the solutions,
+unless you have a solution figured out or you can not solve it.
+Do not worry because it is very difficult and beginners can not
+usually solve such problems, once you solve enough problems you will
+start to notice patters so don't worry, everyone started from where
+you are currently! :D
+
+Exercise 1. Write a program that will (theoretically) build a
+pyramid for you and give you statistics. Use the new input
+technique you learned to get how many blocks you have for the
+pyramid, every floor the pyramid requires 1 more block to build
+so make a Blocks variable that takes input, required variable so
+you can track how much is needed for the next floor and check if
+you can build it, create a loop that will build it floor by floor
+tracking how much has been built. At the end display how many
+floors have been built, how many blocks are left, how many blocks
+are required for the next floor.
+OUTPUT EXAMPLE:
+Floors built:  76
+Blocks left:  74
+Required for next floor:  77
+
+Exercise 2. Write a program that will take a string input as the
+variable "word", use the capitalize function at the end to norm it.
+if you don't know what it does google it, If the input is equal 
+to fizz make the output "Boom!", if the input is Buzz, ask
+"Are you a bee?", if the input is "FizzBuzz" ask "What did you say?"
+Example Output:
+(input) FizzBuzz
+What did you say?
+(input) Buzz
+Are you a bee?
